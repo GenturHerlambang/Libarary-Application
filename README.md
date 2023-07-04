@@ -7,6 +7,7 @@ The library application is designed to streamline library operations and facilit
 # Features
 
 -Add new books to the library inventory.
+
 -Borrow books from the library.
 
 -Return borrowed books to the library.
@@ -18,8 +19,15 @@ The library application is designed to streamline library operations and facilit
 
 # Usage
 1.Launch the library application.
+
 2.Follow the on-screen menu prompts to perform desired operations.
+
 3.Enter the corresponding number for the operation you want to execute.
+
 4.Provide the required information as instructed.
+
 5.Repeat steps 3-4 to perform additional operations.
+
 6.Exit the application when finished.
+
+
