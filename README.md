@@ -6,15 +6,20 @@ The library application is designed to streamline library operations and facilit
 
 # Features
 
--Add new books to the library inventory.
+-User Registration: Users can register by providing their email and password. The application validates the email domain and password requirements before registration.
 
--Borrow books from the library.
+-User Registration: Users can register by providing their email and password. The application validates the email domain and password requirements before registration.
 
--Return borrowed books to the library.
+-Return Book: Users can return the book they have borrowed.
 
 -View the list of available books.
 
--Search for books by title, author, or genre.
+-Check Book Availability: An admin can check the availability of books in the library.
+
+# Code Structure
+-main.py: The main Python script containing the classes for Book and User, along with functions for user registration, borrowing, returning books, and checking book availability.
+
+-README.md: The current document you are reading.
 
 
 # Usage
